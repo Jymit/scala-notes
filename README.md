@@ -1,0 +1,2 @@
+# scala-notes
+learning scala
